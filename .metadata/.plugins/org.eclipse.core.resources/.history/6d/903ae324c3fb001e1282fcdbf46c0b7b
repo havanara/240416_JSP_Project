@@ -1,0 +1,14 @@
+package service;
+
+import controller.List;
+import domain.BoardVO;
+
+public interface BoardService {
+
+	int insert(BoardVO bvo);
+
+	List<BoardVO> getList();
+
+//	int detail(BoardVO bvo);
+
+}
