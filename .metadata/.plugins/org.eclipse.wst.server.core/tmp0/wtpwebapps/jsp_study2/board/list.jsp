@@ -28,6 +28,7 @@
 			</tr>
 		</c:forEach>
 	</table>
-	<a href="../index.jsp"><button type="button">이전으로</button></a>
+	<a href="../brd/myContent?writer=${ses.id }"><button type="button">내가 쓴 게시글</button></a>
+	<a href="../index.jsp"><button type="button">이전페이지</button></a>
 </body>
 </html>

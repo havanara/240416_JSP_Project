@@ -47,4 +47,16 @@ public class BoardServiceImpl implements BoardService {
 		return bdao.update(bvo);
 	}
 
+	@Override
+	public int delete(int bno) {
+		log.info("delete service");
+		return bdao.delete(bno);
+	}
+
+	@Override
+	public List<BoardVO> getMyContent(String writer) {
+		log.info("myContent service");
+		return bdao.selectList(writer);
+	}
+
 }

@@ -1,0 +1,34 @@
+package domain;
+
+public class MemberVO {
+	private String id;
+	private String pwd;
+	private String email;
+	private int age;
+	private String phone;
+	private String regdate;
+	private String lastlogin;
+
+	public MemberVO() {}
+	
+	public MemberVO(String id, String pwd) {
+		//login
+		this.id = id;
+		this.pwd = pwd;
+	}
+	public MemberVO(String id, String pwd, String email, int age, String phone) {
+		//join
+		this(id,pwd);
+		this.email = email;
+		this.age = age;
+		this.phone = phone;
+	}
+	public MemberVO() {
+		//list
+	}
+	public MemberVO() {
+		//all
+	}
+	
+	
+}

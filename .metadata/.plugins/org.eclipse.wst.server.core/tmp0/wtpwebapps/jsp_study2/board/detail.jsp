@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+    <%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -34,7 +35,12 @@
 			<td>${bvo.moddate }</td>
 		</tr>
 	</table>
+	
+	<c:if test="${bvo.writer == ses.id}">
 	<a href="/brd/modify?bno=${bvo.bno}"><button type="button">수정</button></a>
+	<a href="/brd/delete?bno=${bvo.bno}"><button type="button">삭제</button></a>	
+	</c:if>
 	<a href="/brd/list"><button type="button">목록</button></a>
+	
 </body>
 </html>

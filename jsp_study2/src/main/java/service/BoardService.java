@@ -16,4 +16,8 @@ public interface BoardService {
 
 	int update(BoardVO bvo);
 
+	int delete(int bno);
+
+	List<BoardVO> getMyContent(String writer);
+
 }
