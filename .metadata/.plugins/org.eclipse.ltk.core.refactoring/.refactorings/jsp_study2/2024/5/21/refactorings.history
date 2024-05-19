@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;jsp_study2/src/main/java/mapper/commentMapper.xml&apos; to &apos;CommentMapper.xml&apos;" description="Rename resource &apos;commentMapper.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/java/mapper/commentMapper.xml" name="CommentMapper.xml" stamp="1716134259436" updateReferences="true"/>
+</session>

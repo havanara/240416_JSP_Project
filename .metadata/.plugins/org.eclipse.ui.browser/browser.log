@@ -1,0 +1,66 @@
+
+4월 17, 2024 10:04:48.471 NEW SESSION
+4월 17, 2024 10:04:48.471 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 17, 2024 10:53:38.742 NEW SESSION
+4월 17, 2024 10:53:38.742 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 17, 2024 11:11:49.755 NEW SESSION
+4월 17, 2024 11:11:49.755 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 17, 2024 11:24:16.670 NEW SESSION
+4월 17, 2024 11:24:16.670 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 17, 2024 12:07:22.939 NEW SESSION
+4월 17, 2024 12:07:22.939 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 17, 2024 12:10:03.334 NEW SESSION
+4월 17, 2024 12:10:03.334 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 17, 2024 12:37:34.416 NEW SESSION
+4월 17, 2024 12:37:34.416 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 12:42:30.229 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 13:02:54.375 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 13:03:43.500 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 13:04:04.973 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 13:04:51.985 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 13:05:14.193 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 13:05:33.384 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 13:07:44.245 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 14:25:34.170 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 14:30:00.732 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 14:30:32.35 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 14:32:15.614 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 14:36:42.50 [8336:1308:0417/143642.050:ERROR:device_event_log_impl.cc(195)] [14:36:42.051] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+
+4월 17, 2024 14:38:40.992 NEW SESSION
+4월 17, 2024 14:38:40.992 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 17, 2024 15:03:06.734 NEW SESSION
+4월 17, 2024 15:03:06.734 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+4월 17, 2024 15:10:57.814 [13344:8172:0417/151057.814:ERROR:interface_endpoint_client.cc(707)] Message 1 rejected by interface blink.mojom.WidgetHost
+4월 17, 2024 15:19:29.85 [13344:8172:0417/151929.085:ERROR:device_event_log_impl.cc(195)] [15:19:29.085] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 17, 2024 15:45:05.308 [13344:8172:0417/154505.308:ERROR:device_event_log_impl.cc(195)] [15:45:05.307] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 17, 2024 15:49:46.495 [13344:8172:0417/154946.495:ERROR:device_event_log_impl.cc(195)] [15:49:46.495] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 17, 2024 15:50:29.916 [13344:8172:0417/155029.915:ERROR:device_event_log_impl.cc(195)] [15:50:29.915] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 17, 2024 15:50:59.332 [13344:8172:0417/155059.332:ERROR:device_event_log_impl.cc(195)] [15:50:59.331] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 17, 2024 15:52:09.573 [13344:8172:0417/155209.573:ERROR:device_event_log_impl.cc(195)] [15:52:09.573] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+4월 17, 2024 15:53:59.966 [13344:8172:0417/155359.966:ERROR:device_event_log_impl.cc(195)] [15:53:59.965] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: �슂�냼媛� �뾾�뒿�땲�떎. (0x490)
+
+4월 17, 2024 17:42:14.243 NEW SESSION
+4월 17, 2024 17:42:14.243 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+4월 18, 2024 09:46:20.196 NEW SESSION
+4월 18, 2024 09:46:20.196 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+5월 19, 2024 21:59:33.837 NEW SESSION
+5월 19, 2024 21:59:33.837 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 19, 2024 22:43:00.803 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 19, 2024 22:47:18.632 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 19, 2024 22:50:40.824 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 19, 2024 23:00:23.698 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 20, 2024 24:42:50.697 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 20, 2024 24:44:06.22 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 20, 2024 24:45:23.867 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 20, 2024 24:50:14.145 Created TensorFlow Lite XNNPACK delegate for CPU.
+5월 20, 2024 24:58:52.894 Created TensorFlow Lite XNNPACK delegate for CPU.

@@ -42,5 +42,6 @@
 	</c:if>
 	<a href="/brd/list"><button type="button">목록</button></a>
 	
+	<script type="text/javascript" src="/resources/board_detail.js"></script>
 </body>
 </html>
