@@ -4,7 +4,7 @@
 
 **mapper** : mapper
 
-**orm** : dataBaseBuilder, myvatisConfig
+**orm** : dataBaseBuilder, mybatisConfig
 
 **repository** : DAO, DAOImpl
 
